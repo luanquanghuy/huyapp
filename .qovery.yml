@@ -1,0 +1,11 @@
+---
+application:
+  name: "lqhcon0"
+  project: "lqhcon0"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-lqhcon0"
+  routes:
+  - application_name: "lqhcon0"
+    paths:
+    - "/*"
