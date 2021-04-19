@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+log_live.txt
+log_farm
+log_gap_thu
+log_hung_xu
+log_phi_dao
+log_co_ty_phu.txt
+diem_co_ty_phu.txt
+LSX.txt
+log_dp.txt
+list_noti
+LSX.txt
+.idea/*
+/public/*
