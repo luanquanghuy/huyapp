@@ -1,11 +1,11 @@
 ---
 application:
-  name: "lqhcon0"
+  name: "huyapp0"
   project: "lqhcon0"
   organization: "QoveryCommunity"
 routers:
-- name: "main-lqhcon0"
+- name: "main-huyapp0"
   routes:
-  - application_name: "lqhcon0"
+  - application_name: "huyapp0"
     paths:
     - "/*"
